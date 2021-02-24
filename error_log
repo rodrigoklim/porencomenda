@@ -1,0 +1,1 @@
+[04-Feb-2020 21:34:00 UTC] PHP Fatal error:  Out of memory (allocated 802168832) (tried to allocate 18874368 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/RuleSet.php on line 90
